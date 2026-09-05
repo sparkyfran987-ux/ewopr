@@ -10,6 +10,15 @@ export type Noticia = {
 export const noticiasEWO: Noticia[] = [
   {
     id: 1,
+    titulo: "¡ÚLTIMA HORA"",
+    fecha: "EWO 2040",
+    descripcion:
+      "Temprano en la mañana recibimos las siguientes declaraciones por parte del Wizard a solo horas del evento #2040. Estas declaraciones van directas a Kobe La Mascara como tambien a Freddy Rodriguez ya que el Wizard no se guardo ningún comentario y lo dijo TODO.",
+    imagen: "/elwizardfacebook.png",
+    link: "https://www.facebook.com/share/v/17X5bdq1NB/",
+  },
+  {
+   id: 1,
     titulo: "¡EL MISTERIO ESTÁ A PUNTO DE REVELARSE! ¿A QUÉ CAMPEÓN RETARÁ EDWIN GARCÍA?",
     fecha: "EWO 2040",
     descripcion:
@@ -27,7 +36,7 @@ export const noticiasEWO: Noticia[] = [
     link: "https://www.facebook.com/share/v/18BiM62Cqn/",
   },
   {
-    id: 3,
+   id: 3,
     titulo: "¡Los campeones listos para su PRIMERA GRAN PRUEBA!",
     fecha: "EWO 2040",
     descripcion:
@@ -36,21 +45,12 @@ export const noticiasEWO: Noticia[] = [
     link: "https://www.facebook.com/share/v/1CzFNBLgpj/",
   },
   {
-    id: 4,
+   id: 4,
     titulo: "𝐕𝐈𝐒𝐈𝐎́𝐍, 𝐂𝐀𝐌𝐁𝐈𝐎𝐒 𝐘 𝐍𝐔𝐄𝐕𝐎𝐒 𝐇𝐎𝐑𝐈𝐙𝐎𝐍𝐓𝐄𝐒…",
     fecha: "EWO 2040",
     descripcion:
       "Llegadas inesperadas, alianzas sorpresivas y movimientos silenciosos comienzan a transformar el panorama de la EWO.",
     imagen: "/publicacion3.jpg",
     link: "https://www.facebook.com/share/v/19Yh9iP4im/",
-  },
-  {
-    id: 5,
-    titulo: "De El Hombre de la Pegada David Estilo a El Unprofessional... Y vengo por tí, CAMPEÓN!",
-    fecha: "EWO 2040 LA ANTESALA",
-    descripcion:
-      "¿Colaboración? ¿No viene solo? ¡Este sábado EXPLOTA el Coliseo de Luquillo!",
-    imagen: "/publicacion4.jpg",
-    link: "https://www.facebook.com/share/v/19eLY8X5g7/",
   },
 ];
