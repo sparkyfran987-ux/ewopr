@@ -18,7 +18,7 @@ export default function ContactoPage() {
 
           <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
             <motion.a
-              href="mailto:info@ewopuertorico.com"
+              href="mailto:ewoofpr@gmail.com"
               whileHover={{ x: 8 }}
               className="flex items-center gap-6 rounded-xl border border-white/10 bg-zinc-900/40 p-6 backdrop-blur-md"
             >
