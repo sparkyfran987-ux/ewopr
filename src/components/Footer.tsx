@@ -49,8 +49,8 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="mailto:info@ewopuertorico.com" className="hover:text-gold">
-                info@ewopuertorico.com
+              <a href="mailto:ewoofpr@gmail.com" className="hover:text-gold">
+                ewoofpr@gmail.com
               </a>
             </li>
           </ul>
