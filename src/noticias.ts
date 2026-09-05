@@ -10,11 +10,11 @@ export type Noticia = {
 export const noticiasEWO: Noticia[] = [
   {
     id: 1,
-    titulo: "¡ÚLTIMA HORA"",
+    titulo: "¡ÚLTIMA HORA",
     fecha: "EWO 2040",
     descripcion:
       "Temprano en la mañana recibimos las siguientes declaraciones por parte del Wizard a solo horas del evento #2040. Estas declaraciones van directas a Kobe La Mascara como tambien a Freddy Rodriguez ya que el Wizard no se guardo ningún comentario y lo dijo TODO.",
-    imagen: "/elwizardfacebook.png",
+    imagen: "/elwizardfacebook.jpg",
     link: "https://www.facebook.com/share/v/17X5bdq1NB/",
   },
   {
