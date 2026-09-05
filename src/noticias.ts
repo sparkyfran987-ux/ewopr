@@ -14,7 +14,7 @@ export const noticiasEWO: Noticia[] = [
     fecha: "EWO 2040",
     descripcion:
       "Su próximo objetivo ya está en la mira, pero la gran pregunta continúa en el aire hasta hoy...",
-    imagen: "/comunicado.jpg",
+    imagen: "/comunicado.png",
     link: "https://www.facebook.com/share/p/19NpAWJrRk/",
   },
   {
