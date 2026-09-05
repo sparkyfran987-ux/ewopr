@@ -27,7 +27,7 @@ export default function ContactoPage() {
               </div>
               <div>
                 <p className="text-[10px] font-black uppercase tracking-widest text-zinc-500">Email oficial</p>
-                <p className="text-lg font-black italic">info@ewopuertorico.com</p>
+                <p className="text-lg font-black italic">ewoofpr@gmail.com</p>
               </div>
             </motion.a>
 
