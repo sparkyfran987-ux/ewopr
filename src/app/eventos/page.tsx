@@ -10,32 +10,8 @@ export const metadata: Metadata = {
 
 const cartelera = [
   {
-    tipo: "Lucha ordenada por Jorge Casanova",
-    lucha: "“El Pequeño Gigante” Rikochet vs. “The Juggernaut” Tony Radical",
-  },
-  {
-    tipo: "Por el campeonato de Puerto Rico",
-    lucha: "Pablo Diaz (Campeón) vs. Enock",
-  },
-  {
-    tipo: "El De Mayor Ascenso",
-    lucha: "Kobe La Máscara vs. “Acompañado por El Wizard” Wizard #2",
-  },
-  {
-    tipo: "Lucha no titular",
-    lucha: "Bulldozer & Alex Melendez vs. Jan Carlos Rosado & Blackstone",
-  },
-  {
-    tipo: "Combate individual",
-    lucha: "Edwin Garcia vs. Maximus Winner",
-  },
-  {
-    tipo: "Triple amenaza",
-    lucha: "Valak vs. Will Kallahan vs. Joe Santiago",
-  },
-  {
-    tipo: "Combate individual",
-    lucha: "El Caballero Jeremias vs. El Mago",
+    tipo: "Proximamente",
+    lucha: "Pendientes a las redes de EWO Puerto Rico para mas información.",
   },
 ];
 
@@ -51,8 +27,8 @@ export default function EventosPage() {
       <article className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-950/80 shadow-2xl">
         <div className="relative aspect-video w-full bg-black">
           <Image
-            src="/ewo2040.jpg"
-            alt="EWO 2040"
+            src="/ewosinimagen.jpg"
+            alt="EWO Live"
             fill
             className="object-contain"
             priority
@@ -66,7 +42,7 @@ export default function EventosPage() {
                 Próximo evento estelar
               </p>
               <h2 className="font-display text-5xl text-gold sm:text-6xl">
-                EWO 2040
+                EWO LIVE
               </h2>
             </div>
 
@@ -76,7 +52,7 @@ export default function EventosPage() {
                   Fecha
                 </p>
                 <p className="text-xl font-bold uppercase">
-                  Sábado 5 de septiembre de 2026
+                  Sábado 19 de septiembre de 2026
                 </p>
               </div>
 
