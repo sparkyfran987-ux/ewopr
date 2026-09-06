@@ -24,8 +24,8 @@ export default async function Home() {
           <article className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-950/70">
             <div className="relative aspect-video">
               <Image 
-                src="/ewo2040.jpg" 
-                alt="EWO 2040" 
+                src="/ewosinimagen.jpg" 
+                alt="EWO Live" 
                 fill 
                 sizes="(max-width: 1024px) 100vw, (max-width: 1280px) 66vw, 880px"
                 className="object-cover" 
@@ -34,9 +34,9 @@ export default async function Home() {
               <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent" />
               <div className="absolute bottom-0 left-0 p-6 sm:p-8">
                 <p className="text-[11px] font-black uppercase tracking-[0.3em] text-gold">Próximo evento</p>
-                <h2 className="font-display text-4xl text-white sm:text-6xl">EWO 2040</h2>
+                <h2 className="font-display text-4xl text-white sm:text-6xl">EWO Live</h2>
                 <p className="mt-2 text-sm font-semibold uppercase tracking-widest text-zinc-300">
-                  Sábado 5 de septiembre de 2026 · 8:00 PM
+                  Sábado 19 de septiembre de 2026 · 8:00 PM
                 </p>
                 <Link
                   href="/eventos"
