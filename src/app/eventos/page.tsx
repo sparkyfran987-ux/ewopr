@@ -42,7 +42,7 @@ export default function EventosPage() {
                 Próximo evento estelar
               </p>
               <h2 className="font-display text-5xl text-gold sm:text-6xl">
-                EWO LIVE
+                EWO Hora Zero
               </h2>
             </div>
 
