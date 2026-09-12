@@ -24,7 +24,7 @@ export default async function Home() {
           <article className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-950/70">
             <div className="relative aspect-video">
               <Image 
-                src="/ewohorazero.jpg" 
+                src="/ewohorazero.png" 
                 alt="EWO Hora Zero" 
                 fill 
                 sizes="(max-width: 1024px) 100vw, (max-width: 1280px) 66vw, 880px"
