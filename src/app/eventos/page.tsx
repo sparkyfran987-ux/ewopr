@@ -27,8 +27,8 @@ export default function EventosPage() {
       <article className="overflow-hidden rounded-2xl border border-white/10 bg-zinc-950/80 shadow-2xl">
         <div className="relative aspect-video w-full bg-black">
           <Image
-            src="/ewosinimagen.jpg"
-            alt="EWO Live"
+            src="/ewohorazero.png"
+            alt="EWO Hora Zero"
             fill
             className="object-contain"
             priority
@@ -52,7 +52,7 @@ export default function EventosPage() {
                   Fecha
                 </p>
                 <p className="text-xl font-bold uppercase">
-                  Sábado 19 de septiembre de 2026
+                  Sábado 3 de octubre de 2026
                 </p>
               </div>
 
