@@ -25,7 +25,7 @@ export default async function Home() {
             <div className="relative aspect-video">
               <Image 
                 src="/ewohorazero.png" 
-                alt="EWO Hora Zero" 
+                alt="EWO Hora Cero" 
                 fill 
                 sizes="(max-width: 1024px) 100vw, (max-width: 1280px) 66vw, 880px"
                 className="object-cover" 
@@ -34,7 +34,7 @@ export default async function Home() {
               <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent" />
               <div className="absolute bottom-0 left-0 p-6 sm:p-8">
                 <p className="text-[11px] font-black uppercase tracking-[0.3em] text-gold">Próximo evento</p>
-                <h2 className="font-display text-4xl text-white sm:text-6xl">EWO Hora Zero</h2>
+                <h2 className="font-display text-4xl text-white sm:text-6xl">EWO Hora Cero</h2>
                 <p className="mt-2 text-sm font-semibold uppercase tracking-widest text-zinc-300">
                   Sábado 3 de octubre de 2026 · 8:00 PM
                 </p>
