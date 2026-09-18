@@ -28,7 +28,7 @@ export default function EventosPage() {
         <div className="relative aspect-video w-full bg-black">
           <Image
             src="/ewohorazero.png"
-            alt="EWO Hora Zero"
+            alt="EWO Hora Cero"
             fill
             className="object-contain"
             priority
@@ -42,7 +42,7 @@ export default function EventosPage() {
                 Próximo evento estelar
               </p>
               <h2 className="font-display text-5xl text-gold sm:text-6xl">
-                EWO Hora Zero
+                EWO Hora Cero
               </h2>
             </div>
 
