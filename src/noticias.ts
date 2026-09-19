@@ -7,4 +7,13 @@ export type Noticia = {
   link: string;
 };
 
-export const noticiasEWO: Noticia[] = [];
+export const noticiasEWO: Noticia[] = [
+  {
+    "id": 1,
+    "titulo": "Yo se lo que hay esta noche en Toa Baja  Maximus Winner",
+    "fecha": "EWO 2040",
+    "descripcion": "“Yo se lo que hay esta noche en Toa Baja” | Maximus Winner",
+    "imagen": "/publicacion_fb_1.jpg",
+    "link": "https://www.facebook.com/EWOpuertorico"
+  }
+];
