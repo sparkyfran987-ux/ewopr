@@ -14,6 +14,6 @@ export const noticiasEWO: Noticia[] = [
     "fecha": "EWO 2040",
     "descripcion": "“Yo se lo que hay esta noche en Toa Baja” | Maximus Winner",
     "imagen": "/publicacion_fb_1.jpg",
-    "link": "https://www.facebook.com/EWOpuertorico"
+    "link": "https://www.facebook.com/ewopuertorico/posts/pfbid0v1LdpFUFGoDGxDRk7wskyCPta3hXoxgrPf2PB9ZBMaMacPhVsMiyJkc3TcCtqQ51l"
   }
 ];
