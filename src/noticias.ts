@@ -11,9 +11,9 @@ export const noticiasEWO: Noticia[] = [
   {
     "id": 1,
     "titulo": "Yo se lo que hay esta noche en Toa Baja  Maximus Winner",
-    "fecha": "EWO 2040",
+    "fecha": "EWO Puerto Rico",
     "descripcion": "“Yo se lo que hay esta noche en Toa Baja” | Maximus Winner",
     "imagen": "/publicacion_fb_1.jpg",
-    "link": "https://www.facebook.com/ewopuertorico/posts/pfbid0v1LdpFUFGoDGxDRk7wskyCPta3hXoxgrPf2PB9ZBMaMacPhVsMiyJkc3TcCtqQ51l"
+    "link": "https://www.facebook.com/share/v/1EWffxMoH2/"
   }
 ];
